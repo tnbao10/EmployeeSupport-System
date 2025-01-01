@@ -27,12 +27,12 @@
   <img src="https://github.com/user-attachments/assets/363abe1c-2d21-4fe5-9dde-c5d8c5f3018c" width=900 ><br/>
 </p> <br>
 
-<h4> - Admin can view requests of each employee. Admin can search Request by Dates and By Priorites</h4>
+<h4> - Admin can view requests of each employee. Admin can search requests by time range or priority.</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da837c2c-3d1c-405e-9b85-d7601e354a45" width=900 ><br/>
 </p> <br>
 
-<h4> - Admin can view the list of requests from all Employees and assign requests to Support Employee, Admin can search Request by Dates and By Priorites</h4>
+<h4> - Admin can view the list of requests from all Employees and assign requests to Support Employee, Admin can search requests by time range or priority.</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c978bdde-5c57-4da8-9c21-2241660786ee" width=900 ><br/>
 </p> <br>
@@ -44,7 +44,7 @@
 
 
 <h2>2. Employee </h2>
-<h4>- Employees can view the requests they have created, they can search Request by Dates and By Priorites</h4>
+<h4>- Employees can view the requests they have created, they can search requests by time range or priority.</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7bd9509e-2189-4425-a4d9-6e95ec05c1f6" width=900 ><br/>
 </p><br>
@@ -66,7 +66,7 @@
 </p><br>
 
 <h2>3. Support Employee </h2>
-<h4>- Support Employees can view the requests assigned to them., they can search Request by Dates and By Priorites</h4>
+<h4>- Support Employees can view the requests assigned to them., they can search requests by time range or priority.</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0ed84a1-0b45-4d8e-8fec-430b80e91d77" width=900 ><br/>
 </p><br>
