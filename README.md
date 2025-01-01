@@ -22,22 +22,22 @@
   <img src="https://github.com/user-attachments/assets/4d26033d-5924-4233-865b-989ca685939b" width=900 ><br/>
 </p> <br>
 
-<h4> - Employee List Management, Admin can search Employee By Username </h4>
+<h4> - Admin can manage Employee List and search Employee By employee 's username </h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/363abe1c-2d21-4fe5-9dde-c5d8c5f3018c" width=900 ><br/>
 </p> <br>
 
-<h4> - View requests of each employee. Admin can search Request by Dates and By Priorites</h4>
+<h4> - Admin can view requests of each employee. Admin can search Request by Dates and By Priorites</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da837c2c-3d1c-405e-9b85-d7601e354a45" width=900 ><br/>
 </p> <br>
 
-<h4> - View the list of requests from all Employees and assign requests to Support Employee, Admin can search Request by Dates and By Priorites</h4>
+<h4> - Admin can view the list of requests from all Employees and assign requests to Support Employee, Admin can search Request by Dates and By Priorites</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c978bdde-5c57-4da8-9c21-2241660786ee" width=900 ><br/>
 </p> <br>
 
-<h4> - Create Account for Employee and Support Employee.</h4>
+<h4> - Admin can create Account for Employee and Support Employee.</h4>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7fb2c2dd-65f2-4b99-89c3-400de7f0dc05" width=900 ><br/>
 </p> <br>
