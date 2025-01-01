@@ -73,8 +73,8 @@
 
 <h4>- Support Employees can view their Profile and edit their Information.</h4>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-    <img src="https://github.com/user-attachments/assets/e91bebd9-1df1-4bff-bf22-91372f63b841" width=500 >
-    <img src="https://github.com/user-attachments/assets/db1be2e7-4867-45d6-bd6c-89096b097b9d" width="500">
+    <img src="https://github.com/user-attachments/assets/76be3f00-c267-4a6c-9afe-615392b02e75" width=500 >
+    <img src="https://github.com/user-attachments/assets/e91bebd9-1df1-4bff-bf22-91372f63b841" width="500">
 </div><br>
 
 <h4>- Support Employees can alo change Password.</h4>
@@ -87,9 +87,7 @@
   If you would like to contribute or need further information, please contact me via email: <a href="mailto:tnbao1009@gmail.com">tnbao1009@gmail.com</a>
 </p>
 
-## License
 
-The .NET framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 
