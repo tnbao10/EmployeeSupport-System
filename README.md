@@ -84,7 +84,7 @@
 
 ## Contact Me 
 <p align="center">
-  If you would like to contribute or need further information, please contact me via email: <a href="mailto:tnbao1009@gmail.com">tnbao1009@gmail.com</a>
+  Thanks for visit my project, if you need further information, please contact me via email: <a href="mailto:tnbao1009@gmail.com">tnbao1009@gmail.com</a>
 </p>
 
 
